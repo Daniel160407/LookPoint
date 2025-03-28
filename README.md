@@ -1,5 +1,6 @@
-# BreezeLook
-Mod made for wireless redstone mechanism based on breezes and player's view direction
+# LookPoint
+Mod for Minecraft that can be used to look at any special point of veiw.
+It is written for wireless redstone mechanism based on breezes and player's view direction
 
 ## Commands
 | Command | Description |
@@ -20,5 +21,3 @@ Mod made for wireless redstone mechanism based on breezes and player's view dire
 | return-camera-to-direction | false |
 | return-camera-to-horizontal | 0.0 |
 | return-camera-to-vertical | 0.0 |
-
-https://modrinth.com/user/TheFogIOF
